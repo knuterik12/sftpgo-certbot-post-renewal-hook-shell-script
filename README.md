@@ -1,7 +1,7 @@
 # sftpgo-certbot-post-renewal-hook-shell-script
 How to install Certbot SSL/TLS certificates with auto renewal on the SFTPGO web UI
 
-https://www.knuterikevensen.com/?p=11520
+https://www.knuterikevensen.com/?p=11624
 
 A certbot post renewal hook shell script to automatically copy the certificates to the sftgp ssl directory 
 and change the ownership of the certificates to the sftpgo user and 
